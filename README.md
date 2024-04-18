@@ -99,3 +99,8 @@
 <img align="right" height="150" src="https://clipart-library.com/images/8ixKaobip.gif"  />
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
