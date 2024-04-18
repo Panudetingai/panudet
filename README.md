@@ -102,5 +102,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Panudetingai/Panudetingai/main/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Panudetingai/Panudetingai/0f00d4796322406acbc13748d666cc8d31b48e7b/snake.svg" alt="Snake animation" />
 
